@@ -1,3 +1,5 @@
+<h1 align="center">
+
 ## Olá! Eu sou a Lanna ️✌
 
 
@@ -20,3 +22,4 @@
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="height: 19; left: 288; position: absolute; top: 30;">
 </h1>
   
+</h1>
