@@ -1,6 +1,13 @@
-<h1 align="center">
 
-## Olá! Eu sou a Lanna ️✌
+<h1 align="center">
+  <img src="https://c.tenor.com/P5DB2iGAecsAAAAj/peach-cat.gif" width="height: 39; position: center;">
+  <br>Olá! Eu sou a Lanna ️
+</h1>
+
+
+
+
+<h1 align="center">
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sollunare/)
@@ -9,8 +16,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yladacs/)
 
 ![Lanna GitHub stats](https://github-readme-stats.vercel.app/api?username=lanroo&show_icons=true&theme=radical)
-
-## Tecnologias que eu uso no meu dia
+<h1 align="center">
+ Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
