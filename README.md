@@ -19,7 +19,6 @@
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   </div><br/>
   
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="height: 19; left: 288; position: absolute; top: 30;">
-</h1>
+  <
   
 </h1>
