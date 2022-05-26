@@ -18,7 +18,7 @@
 ![Lanna GitHub stats](https://github-readme-stats.vercel.app/api?username=lanroo&show_icons=true&theme=radical)
 <h4 align="center">
   <br>
- Tecnologias que eu uso no meu dia a dia
+ Technologies I'm Developing
   <br>
   <br>
 <div style="display: inline_block">
