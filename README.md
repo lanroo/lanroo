@@ -17,16 +17,6 @@
 
 ---
 
-### 📫 **Let's Connect!**  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yladacs/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
 ### 🔥 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lanroo&show_icons=true&theme=radical" width="400px"/>
