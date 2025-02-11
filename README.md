@@ -18,22 +18,16 @@
 ---
 
 ### 🔥 **GitHub Stats**
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lanroo&show_icons=true&theme=radical" width="400px"/>
-  <img src="https://streak-stats.demolab.com?user=lanroo&theme=radical&hide_border=true&background=141321" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lanroo&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" />
 </p>
 
 ---
 
 ### 💻 **Technologies I'm Developing**  
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,nodejs,nextjs" />
 </p>
 
 ---
@@ -42,13 +36,6 @@
 💡 I’m a **night owl coder** — My best ideas come at 3 AM! 🌙  
 🍕 If coding was a food, it would be pizza (because both need the perfect balance of ingredients) 🍕  
 🎶 Coding while listening to **lo-fi beats** = productivity boost! 🚀  
-
----
-
-### 🎯 **Random Fun Badge**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lanroo&theme=radical&no-bg=true&no-frame=true" />
-</p>
 
 ---
 
