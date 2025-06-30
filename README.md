@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://c.tenor.com/P5DB2iGAecsAAAAj/peach-cat.gif" width="80">
-  <br>Hey there! I'm Lanna! 🌸✨
+  <br>Hey there! I'm Lanna!✨
 </h1>
 
 <p align="center">
@@ -10,9 +10,9 @@
 ---
 
 ### 🌟 **About Me**
-- 🚀 Passionate about technology, coding, and UI/UX design
-- 🖥️ Frontend & Backend Developer (but frontend is my happy place!)
-- 🎨 Bringing life to web applications with creative designs
+- 🚀 Passionate about technology
+- 🖥️ Fullstack and AI 
+- 🎨 Bringing life to web and mobile applications with creative designs
 - 🍵 Loves matcha, good music, and cool tech tools  
 
 ---
