@@ -27,7 +27,8 @@
 
 ### 💻 **Technologies I'm Developing**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,reactnative,vue,nodejs,nextjs,swift,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,nodejs,nextjs,swift,python,flutter" />
+
 
 </p>
 
