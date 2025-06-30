@@ -9,15 +9,15 @@
 
 ---
 
-### 🌟 **About Me**
-- 🚀 Passionate about technology
-- 🖥️ Fullstack and AI 
-- 🎨 Bringing life to web and mobile applications with creative designs
-- 🍵 Loves matcha, good music, and cool tech tools  
+### **About Me**
+-  Passionate about technology
+-  Fullstack and AI 
+-  Bringing life to web and mobile applications with creative designs
+-  Loves matcha, good music, and cool tech tools  
 
 ---
 
-### 🔥 **GitHub Stats**
+### **GitHub Stats**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lanroo&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" />
@@ -34,9 +34,8 @@
 
 ### 🎮 **Fun Facts**
 💡 I’m a **night owl coder** — My best ideas come at 3 AM! 🌙  
-🍕 If coding was a food, it would be pizza (because both need the perfect balance of ingredients) 🍕  
-🎶 Coding while listening to **lo-fi beats** = productivity boost! 🚀  
+🎶 Coding while listening to **lo-fi beats** = productivity boost!  
 
 ---
 
-😺 **Thanks for stopping by! Feel free to check out my repos and connect with me!** 🚀💖
+😺 **Thanks for stopping by! Feel free to check out my repos and connect with me!** 
